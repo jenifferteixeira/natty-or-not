@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="300" src="https://github.com/jenifferteixeira/podcast-feitico-digital/blob/main/assets-git/banner.png">
+    <img width="300" src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/banner.png">
 </p>
 
 
@@ -9,7 +9,7 @@
 
 Projeto com o objetivo de gerar um vídeo com as facilidades das ferramentas de I.A. todos os prompts seguem abaixo.
 
-<a href="https://github.com/jenifferteixeira/podcast-feitico-digital/blob/main/output/ep%231.mp3"> 🎙 Clique aqui para ver</a>
+<a href="https://github.com/jenifferteixeira/natty-or-not/blob/main/output/natty-or-not.mp4"> 📽 Clique aqui para ver</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -36,7 +36,7 @@ Movimentação do avatar perfeita conforme a fala.
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/jenifferteixeira/podcast-feitico-digital/blob/main/assets-git/1707272285584.jpg"
+      src="https://github.com/jenifferteixeira/natty-or-not/blob/main/assets-git/1707272285584.jpg"
     />
     <p>&nbsp&nbsp&nbspJeniffer Teixeira<br>
     &nbsp&nbsp&nbsp
